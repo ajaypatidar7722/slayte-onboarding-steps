@@ -1,0 +1,26 @@
+.finishBtn {
+  background: #05a562 !important;
+  color: #fff;
+}
+
+.addGroup {
+  display: flex;
+  justify-content: center;
+  background: #ac28ff !important;
+  width: 20px;
+  height: 20px;
+  margin: auto;
+  border-radius: 50%;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btnGroup {
+  justify-content: center;
+  margin: 200px 0 0 0 !important;
+}
+
+.btnGroup button {
+  width: 100%;
+  color: #fff !important;
+}

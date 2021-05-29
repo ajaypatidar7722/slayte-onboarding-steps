@@ -1,0 +1,12 @@
+.container, #container{
+  background: #fff;
+  padding: 40px 32px 32px 32px;
+  max-width: 480px !important;
+  min-height: 500px !important;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 32px;
+}

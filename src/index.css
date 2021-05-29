@@ -1,0 +1,17 @@
+body {
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+}
+
+input:disabled {
+  border: 1px solid #888 !important;
+  color: #111 !important;
+  opacity: 0.9 !important;
+}

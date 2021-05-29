@@ -1,0 +1,27 @@
+.field {
+  display: flex;
+  align-items: center;
+}
+
+.field input {
+  margin-left: 12px !important;
+}
+
+.btnGroup {
+  justify-content: center;
+  margin: 136px 0 0 0 !important;
+}
+
+.btnGroup button {
+  width: 100%;
+  color: #fff !important;
+}
+
+.backBtn {
+  background: #ac28ff !important;
+  opacity: 0.5;
+}
+
+.nextBtn {
+  background: #ac28ff !important;
+}
