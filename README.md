@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Problem statement
+
+Need to create a React application that uses firebase auth to handle user onboarding steps. See full challenge [here](https://www.evernote.com/shard/s54/sh/1d9f6b1d-c7a0-4a4c-aa0d-cc2656fa8ee1/ddc08e21293edd1163c8dd015acac519)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
